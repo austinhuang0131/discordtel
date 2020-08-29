@@ -5,25 +5,22 @@ DTel's VIP plan works with so called 'VIP Months'. By using `>upgrade` you can t
 Please note: benefits and price are subject to changes. These will be announced in our [server][guildInvite].
 
 ## Current rate
-3 US Dollars or 3 Euros or 4 Canadian Dollars = 1 VIP month.
+2.5 GBP or 2.5 EUR or 3 USD or 4 CAD = 1 VIP month.
 
 If you wish to pay recursively (Credit / PayPal / SEPA), use our Liberapay: <script src="https://liberapay.com/DTel/widgets/button.js"></script>
 <noscript><a href="https://liberapay.com/DTel/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 Otherwise, you can manually donate to one of the three maintainers:
 
-* Austin (Bus): [https://austinhuang.me/donate](https://austinhuang.me/donate) (PayPal / Interac e-Transfer `austinhuang0131@gmail.com`) - CAD preferred
 * Mitchell: [https://www.paypal.me/mdrademaker](https://www.paypal.me/mdrademaker) (PayPal `mdrademaker19@gmail.com`) - EUR preferred
-* Rhys (Sun): PayPal `rhys0710@live.com` - GBP preferred 
+* Rhys (Sun): PayPal `rhys0710@live.com` - GBP preferred
+* Austin (Bus): [https://austinhuang.me/donate](https://austinhuang.me/donate) (PayPal / Interac e-Transfer `austinhuang0131@gmail.com`) - CAD preferred
 
-(TIP: If you donate to Austin via [**Github Sponsors**](https://github.com/sponsors/austinhuang0131) (the $3 tier specifically) your donation is doubled by Github for free. Two VIP months for the price of one!)
 Please include your username + discriminator in the comment field. If you do not, a copy of your email receipt is required for redemption. Note:
 
 * Must be purchased in increments of whole months.
 * PayPal fees, if applicable, are deducted from the donation.
-* Cryptocurrencies are accepted; see [here](https://austinhuang.me/donate) (bottom of page). USD value **at reception** will be considered.
 * Other payment methods (Robux, gift cards, etc.) other than card/PayPal are available on a case-by-case basis. Please `>call *611`.
-* Credits are no longer sold.
 
 
 ## Benefits
