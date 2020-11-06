@@ -5,9 +5,9 @@ DTel's VIP plan works with so called 'VIP Months'. By using `>upgrade` you can t
 Please note: benefits and price are subject to changes. These will be announced in our [server][guildInvite].
 
 ## Current rate
-2.5 GBP or 2.5 EUR or 3 USD or 4 CAD = 1 VIP month.
+£2.50 (GBP), €2.50 (EUR), $3 (USD) or CA$4 (CAD) = 1 VIP month.
 
-If you wish to pay recursively (Credit / PayPal / SEPA), use our Liberapay: <script src="https://liberapay.com/DTel/widgets/button.js"></script>
+If you wish to pay recursively (credit / PayPal / SEPA), use our Liberapay: <script src="https://liberapay.com/DTel/widgets/button.js"></script>
 <noscript><a href="https://liberapay.com/DTel/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 Otherwise, you can manually donate to one of the three maintainers:
@@ -20,7 +20,7 @@ Please include your username + discriminator in the comment field. If you do not
 
 * Must be purchased in increments of whole months.
 * PayPal fees, if applicable, are deducted from the donation.
-* Other payment methods (Robux, gift cards, etc.) other than card/PayPal are available on a case-by-case basis. Please `>call *611`.
+* Other payment methods (Robux, gift cards, etc.) other than card/PayPal are accepted on a case-by-case basis. Please `>call *611`.
 
 
 ## Benefits
@@ -37,7 +37,10 @@ Please include your username + discriminator in the comment field. If you do not
 *	**Changing your number**<br/>
 	Requesting a number change (by dialing `*611`) won't get rid of all your messages, contacts, phonebook settings, VIP settings, etc.<br/><br/>
 *	**Number expiry**<br/>
-	If your number is set to expire before the end of your VIP month(s), it will be extended to the same date as your VIP expires.
+	If your number is set to expire before the end of your VIP month(s), it will be extended to the same date as your VIP expires.<br/><br/>
+*	**Reduced >pay fee**<br/>
+	When sending someone credits with `>pay`, there will only be a 5% fee as opposed to 15% for non-VIP users.
+
 
 ## Options
 You can find your newly enabled VIP options in the `*411` menu.<br/>
