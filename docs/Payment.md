@@ -28,9 +28,6 @@ You can vote for us on the following bot listings. For each vote, you will get 1
 | [Bots for Discord](https://botsfordiscord.com/bots/377609965554237453/vote) | Once every 24 hours |
 | [Discord Boats](https://discord.boats/bot/377609965554237453/vote) | Once every 12 hours |
 | [DiscordBotList.com](https://discordbotlist.com/bots/377609965554237453/upvote) | Once every 24 hours |
-| [DiscordBot.world](https://discordbot.world/bot/377609965554237453) | Once per lifetime per account |
-| [Mythical Bot List](https://mythicalbots.xyz/bot/377609965554237453) | Only 1 user can bump once every 3 hours |
-| [Glenn Bot List](https://glennbotlist.xyz/bot/377609965554237453/vote) | Once every 12 hours |
 | [top.gg](https://top.gg/bot/377609965554237453/vote) | Once every 12 hours, 20 credits per vote on weekends |
 
 The user with the highest number of votes given to us in a week will receive 1 month of [VIP](./VIP%20Number/) for free! See [support server](https://discord.gg/RN7pxrB) for details.
