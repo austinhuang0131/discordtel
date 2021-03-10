@@ -9,6 +9,7 @@ If this page does not answer your question, feel free to `>dial *611` from any D
 * [Setup](#setup)
 * [Call commands](#what-commands-can-i-use-during-a-call)
 * [Renewal](#how-do-i-keep-my-number-alive)
+* [Rules](#rules)
 
 ### Setup
 #### How do I get a number?
@@ -33,7 +34,7 @@ Letters will be converted to the corresponding number. For example, `>dial 0301D
 #### How do I find people to call?
 * Join the support server and check out #promote-your-number.
 * `>rdial` allows you to dial a random number on the yellow pages.
-* You can `>dial *411`, then enter `1`, to search the yellow book. You can either...
+* You can `>dial *411`, then enter `1`, to search the yellow pages. You can either...
   * Enter a query (e.g. `roleplay`) to search numbers by their descriptions, or
   * Enter a page number (e.g. `2`) to browse the yellow pages.
 
@@ -49,6 +50,16 @@ DTel will charge you in-bot credits to make sure all numbers are being actively 
 (or someone else) renew it. Numbers expired for more than one (1) month will be deleted.
 
 To learn about how to get credits, see [here](./Payment). For each number, the bot will automatically try to deduct 500 credits from the *server owner's* account, within 24 hours *before* the number expires. If successful, the bot will renew the number for another month, otherwise a warning will be sent.
+
+### Rules
+These rules extend other applicable terms, including the Discord ToS and Community Guidelines.
+
+* The following contents are prohibited on DTel *unless* both parties have explicitly consented to sending/receiving them:
+  * NSFW
+  * Advertisements
+  * Shock contents
+* No harassments in any form.
+* DTel Staff reserves right to punish any user for any reason, including but not limited to the rules above.
 
 ## Advanced
 * [Messaging](#messaging)
@@ -68,7 +79,7 @@ If the number is abusing, please report it to us by using `>dial *611`.
 ### How do I remove my number?
 If you still plan to use DTel in your server: `>dial *611`. To request a refund for paid credits, please notify Customer Support in the call. No refunds if there is less than one (1) month left before the expiry.
 
-Otherwise: Sorry to see you go. Your number will be removed within 24 hours. No refund will be provided.
+If you kick the bot: Your number will be removed within 24 hours. No refund will be provided.
 
 ## Trivia
 You don't need these to use the bot: these are just interesting facts.
